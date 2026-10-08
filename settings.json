@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Bubba",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "usfbulls.play.hosting",

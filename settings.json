@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Bubba",
   "bot-account": {
-    "username": "HowToUseAternos",
+    "username": "Bubba",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HowTodo247.aternos.me",
-    "port": 33211,
+    "ip": "usfbulls.play.hosting",
+    "port": 25590,
     "version": "",
     "try-creative": false
   },
